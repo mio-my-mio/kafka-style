@@ -1,0 +1,22 @@
+Gruppen Legende: 
+
+a: 0-5     d: 21-30    g: 51-75
+b: 6-10    e: 31-40    h: 76-100
+c: 11-20   f: 41-50    i: >100
+
+
+Stylo Einstellungen:
+
+Input: plain text, Language: other, Features: words
+200 MFW, start at freq rank 80 (da folgen sehr kurzer Sätze in allen am häufigsten sind
+Statistics: PCA (corr.), Distance: Cosine Delta
+Plot Height & Width 10, Font Size: 5
+
+Rot: Texte von Kafka, Grün: Texte aus dem Vergleichskorpus
+
+
+
+Bonus Fact:
+
+"Betrachtung" und "Der Bau". die deutlich rausfallen, sind auch bei Readability Scores als 
+leichtester (Betrachtung) und schwerster (Der Bau) Text herausgestochen.
